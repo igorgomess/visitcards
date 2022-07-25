@@ -7,15 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		459132A9EE1DD62819248055 /* Pods_VisitCardsEstudo_VisitCardsEstudoUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C10D2A352FF93A2E45FC189 /* Pods_VisitCardsEstudo_VisitCardsEstudoUITests.framework */; };
 		78917DC7288F0DC300F34142 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78917DC6288F0DC300F34142 /* AppDelegate.swift */; };
-		78917DC9288F0DC300F34142 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78917DC8288F0DC300F34142 /* SceneDelegate.swift */; };
 		78917DCB288F0DC300F34142 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78917DCA288F0DC300F34142 /* ViewController.swift */; };
-		78917DCE288F0DC300F34142 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78917DCC288F0DC300F34142 /* Main.storyboard */; };
 		78917DD0288F0DC600F34142 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78917DCF288F0DC600F34142 /* Assets.xcassets */; };
 		78917DD3288F0DC600F34142 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78917DD1288F0DC600F34142 /* LaunchScreen.storyboard */; };
 		78917DDE288F0DC700F34142 /* VisitCardsEstudoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78917DDD288F0DC700F34142 /* VisitCardsEstudoTests.swift */; };
 		78917DE8288F0DC700F34142 /* VisitCardsEstudoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78917DE7288F0DC700F34142 /* VisitCardsEstudoUITests.swift */; };
 		78917DEA288F0DC700F34142 /* VisitCardsEstudoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78917DE9288F0DC700F34142 /* VisitCardsEstudoUITestsLaunchTests.swift */; };
+		BF0406D032AC1C0CB3C57AEB /* Pods_VisitCardsEstudo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F65CC6ADAE031922CB9F762C /* Pods_VisitCardsEstudo.framework */; };
+		CBEE471936834B98F9DB4D38 /* Pods_VisitCardsEstudoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C80D7D75297EA9EEDC279102 /* Pods_VisitCardsEstudoTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,11 +37,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08E007B6CFA3A755C7F9D55A /* Pods-VisitCardsEstudo-VisitCardsEstudoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VisitCardsEstudo-VisitCardsEstudoUITests.release.xcconfig"; path = "Target Support Files/Pods-VisitCardsEstudo-VisitCardsEstudoUITests/Pods-VisitCardsEstudo-VisitCardsEstudoUITests.release.xcconfig"; sourceTree = "<group>"; };
+		151FD3907F9F54C1E757D6C6 /* Pods-VisitCardsEstudo-VisitCardsEstudoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VisitCardsEstudo-VisitCardsEstudoUITests.debug.xcconfig"; path = "Target Support Files/Pods-VisitCardsEstudo-VisitCardsEstudoUITests/Pods-VisitCardsEstudo-VisitCardsEstudoUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		357B43F08E8B38C8D699BE62 /* Pods-VisitCardsEstudoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VisitCardsEstudoTests.release.xcconfig"; path = "Target Support Files/Pods-VisitCardsEstudoTests/Pods-VisitCardsEstudoTests.release.xcconfig"; sourceTree = "<group>"; };
+		3C10D2A352FF93A2E45FC189 /* Pods_VisitCardsEstudo_VisitCardsEstudoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VisitCardsEstudo_VisitCardsEstudoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EC9A8DE4602588D64E66288 /* Pods-VisitCardsEstudo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VisitCardsEstudo.debug.xcconfig"; path = "Target Support Files/Pods-VisitCardsEstudo/Pods-VisitCardsEstudo.debug.xcconfig"; sourceTree = "<group>"; };
+		6D2E3CA2658DAA0A8B298A81 /* Pods-VisitCardsEstudo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VisitCardsEstudo.release.xcconfig"; path = "Target Support Files/Pods-VisitCardsEstudo/Pods-VisitCardsEstudo.release.xcconfig"; sourceTree = "<group>"; };
 		78917DC3288F0DC300F34142 /* VisitCardsEstudo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisitCardsEstudo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78917DC6288F0DC300F34142 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		78917DC8288F0DC300F34142 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		78917DCA288F0DC300F34142 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		78917DCD288F0DC300F34142 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		78917DCF288F0DC600F34142 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78917DD2288F0DC600F34142 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78917DD4288F0DC600F34142 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -49,6 +54,9 @@
 		78917DE3288F0DC700F34142 /* VisitCardsEstudoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisitCardsEstudoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		78917DE7288F0DC700F34142 /* VisitCardsEstudoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisitCardsEstudoUITests.swift; sourceTree = "<group>"; };
 		78917DE9288F0DC700F34142 /* VisitCardsEstudoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisitCardsEstudoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A0138ABD12284675F4C3595B /* Pods-VisitCardsEstudoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VisitCardsEstudoTests.debug.xcconfig"; path = "Target Support Files/Pods-VisitCardsEstudoTests/Pods-VisitCardsEstudoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C80D7D75297EA9EEDC279102 /* Pods_VisitCardsEstudoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VisitCardsEstudoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F65CC6ADAE031922CB9F762C /* Pods_VisitCardsEstudo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VisitCardsEstudo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +64,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF0406D032AC1C0CB3C57AEB /* Pods_VisitCardsEstudo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CBEE471936834B98F9DB4D38 /* Pods_VisitCardsEstudoTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +80,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				459132A9EE1DD62819248055 /* Pods_VisitCardsEstudo_VisitCardsEstudoUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		30D6C60021C2AB77913FA6F0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F65CC6ADAE031922CB9F762C /* Pods_VisitCardsEstudo.framework */,
+				3C10D2A352FF93A2E45FC189 /* Pods_VisitCardsEstudo_VisitCardsEstudoUITests.framework */,
+				C80D7D75297EA9EEDC279102 /* Pods_VisitCardsEstudoTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5F70864CCD77D913F9A07974 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3EC9A8DE4602588D64E66288 /* Pods-VisitCardsEstudo.debug.xcconfig */,
+				6D2E3CA2658DAA0A8B298A81 /* Pods-VisitCardsEstudo.release.xcconfig */,
+				151FD3907F9F54C1E757D6C6 /* Pods-VisitCardsEstudo-VisitCardsEstudoUITests.debug.xcconfig */,
+				08E007B6CFA3A755C7F9D55A /* Pods-VisitCardsEstudo-VisitCardsEstudoUITests.release.xcconfig */,
+				A0138ABD12284675F4C3595B /* Pods-VisitCardsEstudoTests.debug.xcconfig */,
+				357B43F08E8B38C8D699BE62 /* Pods-VisitCardsEstudoTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		78917DBA288F0DC300F34142 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +118,8 @@
 				78917DDC288F0DC700F34142 /* VisitCardsEstudoTests */,
 				78917DE6288F0DC700F34142 /* VisitCardsEstudoUITests */,
 				78917DC4288F0DC300F34142 /* Products */,
+				5F70864CCD77D913F9A07974 /* Pods */,
+				30D6C60021C2AB77913FA6F0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -100,9 +137,7 @@
 			isa = PBXGroup;
 			children = (
 				78917DC6288F0DC300F34142 /* AppDelegate.swift */,
-				78917DC8288F0DC300F34142 /* SceneDelegate.swift */,
 				78917DCA288F0DC300F34142 /* ViewController.swift */,
-				78917DCC288F0DC300F34142 /* Main.storyboard */,
 				78917DCF288F0DC600F34142 /* Assets.xcassets */,
 				78917DD1288F0DC600F34142 /* LaunchScreen.storyboard */,
 				78917DD4288F0DC600F34142 /* Info.plist */,
@@ -134,9 +169,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 78917DED288F0DC700F34142 /* Build configuration list for PBXNativeTarget "VisitCardsEstudo" */;
 			buildPhases = (
+				D4EEC7C7EDE9D1CA49A4F7B4 /* [CP] Check Pods Manifest.lock */,
 				78917DBF288F0DC300F34142 /* Sources */,
 				78917DC0288F0DC300F34142 /* Frameworks */,
 				78917DC1288F0DC300F34142 /* Resources */,
+				33CCFEB1CAC275B5064C7BD5 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +188,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 78917DF0288F0DC700F34142 /* Build configuration list for PBXNativeTarget "VisitCardsEstudoTests" */;
 			buildPhases = (
+				8DAB41B3E4C65DB2CD2E4015 /* [CP] Check Pods Manifest.lock */,
 				78917DD5288F0DC700F34142 /* Sources */,
 				78917DD6288F0DC700F34142 /* Frameworks */,
 				78917DD7288F0DC700F34142 /* Resources */,
@@ -169,9 +207,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 78917DF3288F0DC700F34142 /* Build configuration list for PBXNativeTarget "VisitCardsEstudoUITests" */;
 			buildPhases = (
+				DFFC09DBFC6B1FFCE60B6A19 /* [CP] Check Pods Manifest.lock */,
 				78917DDF288F0DC700F34142 /* Sources */,
 				78917DE0288F0DC700F34142 /* Frameworks */,
 				78917DE1288F0DC700F34142 /* Resources */,
+				D1625A029065EEBB7BF062B5 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -233,7 +273,6 @@
 			files = (
 				78917DD3288F0DC600F34142 /* LaunchScreen.storyboard in Resources */,
 				78917DD0288F0DC600F34142 /* Assets.xcassets in Resources */,
-				78917DCE288F0DC300F34142 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +292,109 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		33CCFEB1CAC275B5064C7BD5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VisitCardsEstudo/Pods-VisitCardsEstudo-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VisitCardsEstudo/Pods-VisitCardsEstudo-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VisitCardsEstudo/Pods-VisitCardsEstudo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8DAB41B3E4C65DB2CD2E4015 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-VisitCardsEstudoTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D1625A029065EEBB7BF062B5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VisitCardsEstudo-VisitCardsEstudoUITests/Pods-VisitCardsEstudo-VisitCardsEstudoUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VisitCardsEstudo-VisitCardsEstudoUITests/Pods-VisitCardsEstudo-VisitCardsEstudoUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VisitCardsEstudo-VisitCardsEstudoUITests/Pods-VisitCardsEstudo-VisitCardsEstudoUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D4EEC7C7EDE9D1CA49A4F7B4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-VisitCardsEstudo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DFFC09DBFC6B1FFCE60B6A19 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-VisitCardsEstudo-VisitCardsEstudoUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		78917DBF288F0DC300F34142 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -260,7 +402,6 @@
 			files = (
 				78917DCB288F0DC300F34142 /* ViewController.swift in Sources */,
 				78917DC7288F0DC300F34142 /* AppDelegate.swift in Sources */,
-				78917DC9288F0DC300F34142 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,14 +438,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		78917DCC288F0DC300F34142 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				78917DCD288F0DC300F34142 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		78917DD1288F0DC600F34142 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -432,6 +565,7 @@
 		};
 		78917DEE288F0DC700F34142 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3EC9A8DE4602588D64E66288 /* Pods-VisitCardsEstudo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -442,7 +576,7 @@
 				INFOPLIST_FILE = VisitCardsEstudo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -460,6 +594,7 @@
 		};
 		78917DEF288F0DC700F34142 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6D2E3CA2658DAA0A8B298A81 /* Pods-VisitCardsEstudo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -470,7 +605,7 @@
 				INFOPLIST_FILE = VisitCardsEstudo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -488,6 +623,7 @@
 		};
 		78917DF1288F0DC700F34142 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A0138ABD12284675F4C3595B /* Pods-VisitCardsEstudoTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +644,7 @@
 		};
 		78917DF2288F0DC700F34142 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 357B43F08E8B38C8D699BE62 /* Pods-VisitCardsEstudoTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -528,6 +665,7 @@
 		};
 		78917DF4288F0DC700F34142 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 151FD3907F9F54C1E757D6C6 /* Pods-VisitCardsEstudo-VisitCardsEstudoUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -546,6 +684,7 @@
 		};
 		78917DF5288F0DC700F34142 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 08E007B6CFA3A755C7F9D55A /* Pods-VisitCardsEstudo-VisitCardsEstudoUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
